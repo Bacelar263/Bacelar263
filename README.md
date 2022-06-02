@@ -6,17 +6,17 @@
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
 
 ### Contatos:
 
 <div>
-  
 <a href="https://instagram.com/bacelarguilherme7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="(https://www.instagram.com/bacelarguilherme7/)"></a>
   
 <a href="https://www.linkedin.com/in/guilherme-bacelar-5a8846217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="[_blank](https://www.linkedin.com/in/guilherme-bacelar-5a8846217/)"></a>   
 </div>
 
+### Meu nível atual:
 
 <div>
 <a href="https://github.com/Bacelar263">
