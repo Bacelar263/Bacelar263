@@ -1,10 +1,11 @@
 ## Olá, meu nome é Guilherme Bacelar
 
 ### Ferramentas e Tecnologias
-          
+  
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-          
+</div>
 
 ### Estou aprendendo
 
