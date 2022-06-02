@@ -1,4 +1,4 @@
-## Olá, meu nome é Guilherme Bacelar
+## Olá, seja bem vindo ao meu perfil, meu nome é Guilherme Bacelar
 
 ### Ferramentas e Tecnologias
   
@@ -34,3 +34,5 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacelar263&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bacelar263&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+![Snake animation](https://github.com/Bacelar263/Bacelar263/blob/output/github-contribution-grid-snake.svg)
