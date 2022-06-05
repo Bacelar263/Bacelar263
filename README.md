@@ -11,8 +11,8 @@
 
 ### 🎯 Linguagens que estou aprendendo
  
-<img title="java" alt="java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="node" alt="node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="css" alt="css" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="javascript" alt="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="html" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-|--|--|--|--|--|
+<img title="java" alt="java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="node" alt="node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="javascript" alt="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+|--|--|--|
 
 ### 📫 Meus contatos:
 
