@@ -1,8 +1,8 @@
 <img src="/header.png" />
 
 ## :book: Sobre mim
-- 🖥 Desenvolvedor back-end e full stack
-- 🎓 Cursando atualmente Análise e Desenvolvimento de Sistemas na faculdade UNIFASB
+- 🖥 Desenvolvedor full stack
+- 🎓 Cursando atualmente Análise e Desenvolvimento de Sistemas na faculdade UNIFASB e Ciências da Computação na UNEB
 
 ### 🔨 Linguagens que mais utilizo
   
