@@ -1,4 +1,5 @@
-<img src="/header.png" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bacelar263&theme=github-dark-blue)](https://git.io/streak-stats)
+
 
 ## :book: Sobre mim
 - 🖥 Desenvolvedor full stack
