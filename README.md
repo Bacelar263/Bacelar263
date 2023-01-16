@@ -24,11 +24,10 @@
 
 ### 🔔 Meu nível atual:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelar263&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="bacelar263" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bacelar263&show_icons=true&locale=pt-br&theme=github_dark" alt="bacelar263" /></p>
-
-## TESTES:
-
 | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelar263&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="bacelar263" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bacelar263&show_icons=true&locale=pt-br&theme=github_dark" alt="bacelar263" /></p> |
+| ------------- | ------------- |
+
+##TESTES:
+
+| <a href="https://github.com/Bacelar263/github-readme-stats%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bacelar263&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bacelar263's github stats" /></a> | <a href="https://github.com/Bacelar263/github-readme-stats%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacelar263&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
