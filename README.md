@@ -30,6 +30,20 @@
 
 | :-: | :-: | :-: |
 
+<div style='display=flex; flex-diretion=row; justify-content=space-between'>
+  <div>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelar263&show_icons=true&locale=en&layout=compact"         alt="bacelar263" /></p>
+  </div>
+  
+  <div>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=bacelar263&show_icons=true&locale=en" alt="bacelar263" /></p>
+  </div>
+  
+ </div>
+
+  
+
+
 
 
 
