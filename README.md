@@ -24,5 +24,5 @@
 
 ### 🔔 Meu nível atual:
 
-| <a href="https://github.com/Bacelar263/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacelar263&layout=compact&theme=buefy&hide_border=true"> </a> | <a href="https://github.com/Bacelar263/"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bacelar263&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bacelar263's github stats"> </a> |
+| <a href="https://github.com/Bacelar263/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacelar263&layout=compact&theme=github_dark&hide_border=true"> </a> | <a href="https://github.com/Bacelar263/"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bacelar263&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Bacelar263's github stats"> </a> |
 | ------------- | ------------- |
