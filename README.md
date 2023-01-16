@@ -24,8 +24,5 @@
 
 ### 🔔 Meu nível atual:
 
-<div>
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bacelar263&theme=react&line_height=5000&hide=css"/> </a>
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bacelar263&show_icons=true&theme=radical"/>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bacelar263&theme=moonlight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bacelar263&theme=moonlight) |
+| :-: | :-: |
