@@ -24,5 +24,5 @@
 
 ### 🔔 Meu nível atual:
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bacelar263&theme=moonlight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bacelar263&theme=moonlight) |
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bacelar263&theme=moonlight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bacelar263&theme=moonlight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bacelar263&theme=moonlight) |
+| :-: | :-: | :-: |
