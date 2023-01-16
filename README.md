@@ -28,4 +28,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bacelar263&show_icons=true&locale=en" alt="bacelar263" /></p>
 
+<div></div>
+<hr>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bacelar263&" alt="bacelar263" /></p>
