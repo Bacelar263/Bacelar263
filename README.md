@@ -25,7 +25,7 @@
 ### 🔔 Meu nível atual:
 
 <div>
-<a href="https://github.com/Bacelar263">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacelar263&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/Bacelar263" target="_blank">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacelar263&layout=compact&langs_count=7&theme=radical"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bacelar263&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
