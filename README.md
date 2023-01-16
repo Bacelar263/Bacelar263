@@ -24,6 +24,6 @@
 
 ### 🔔 Meu nível atual:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelar263&show_icons=true&locale=en&layout=compact&locale=pt-br&theme=github_dark" alt="bacelar263" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelar263&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="bacelar263" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bacelar263&show_icons=true&locale=pt-br&theme=github_dark" alt="bacelar263" /></p>
