@@ -17,9 +17,9 @@
 ### 📫 Meus contatos:
 
 <div>
-<a href="https://instagram.com/bacelarguilherme7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="(https://www.instagram.com/bacelarguilherme7/)"></a>
+<a href="https://instagram.com/bacelarguilherme7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="(https://www.instagram.com/bacelarguilherme7/)"</a>
 <a href = "mailto:bacelarguilherme7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-bacelar-5a8846217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="[_blank](https://www.linkedin.com/in/guilherme-bacelar-5a8846217/)"></a>   
+<a href="https://www.linkedin.com/in/guilherme-bacelar-5a8846217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="[_blank](https://www.linkedin.com/in/guilherme-bacelar-5a8846217/)"</a>   
 </div>
 
 ### 🔔 Meu nível atual:
