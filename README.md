@@ -24,5 +24,5 @@
 
 ### 🔔 Meu nível atual:
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bacelar263&theme=moonlight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bacelar263&theme=moonlight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bacelar263&theme=moonlight) |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacelar263&show_icons=true&locale=en&layout=compact" alt="bacelar263" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bacelar263&show_icons=true&locale=en" alt="bacelar263" | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bacelar263&" alt="bacelar263" /> |
 | :-: | :-: | :-: |
